@@ -1,4 +1,4 @@
-Setup walkthrough
+Setup walkthrough for model 601 devices 
 =======
 
 **Driver Setup:**
