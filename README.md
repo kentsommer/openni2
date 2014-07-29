@@ -1,4 +1,4 @@
-openni2
+Setup description for Prime-sense(601) for use with ROS Xtion Pro
 =======
 
-Setup description for Prime-sense(601) for use with ROS Xtion Pro
+
